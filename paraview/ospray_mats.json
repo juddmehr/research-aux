@@ -1,0 +1,27 @@
+{
+    "family": "OSPRay",
+    "version": "0.0",
+    "materials": {
+        "Primary_blue": {
+            "type": "Alloy",
+            "doubles": {
+                "color": [0.0, 0.3607843137254902, 0.6705882352941176],
+                "roughness": [0.5]
+            }
+        },
+        "Secondary_red": {
+            "type": "Alloy",
+            "doubles": {
+                "color": [0.7450980392156863,0.2980392156862745,0.30196078431372547],
+                "roughness": [0.5]
+            }
+        },
+        "Tertiary_green": {
+            "type": "Alloy",
+            "doubles": {
+                "color": [0.4117647058823529,0.6823529411764706,0.37254901960784315],
+                "roughness": [0.5]
+            }
+        }
+    }
+}
