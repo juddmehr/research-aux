@@ -14,7 +14,7 @@ If you want "softer" colors rather than bright ones, optimal color-blind friendl
 
 Another thing to consider is contrast to the background.  I was pointed to
 - https://venngage.com/tools/accessible-color-palette-generator
-which you can use to see if your colors have sufficient contrast to a white background to be easily discernable.  I haven't checked most of these, but the BYU royal based on passes for all colors.
+which you can use to see if your colors have sufficient contrast to a white background to be easily discernable.  I haven't checked most of these, but the BYU royal based one passes for all colors.
 This process is probably more difficult for dark backgrounds, since there's no set color for dark (black is pretty uncommon, and there are tons of grays that could be used), but perhaps it could be done. (might be nice to optimize your IDE color theme to reduce eye strain or something)
 
 ## Some Notes on Sizing for LaTeX

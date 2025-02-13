@@ -1,11 +1,3 @@
-#=
-Sizing for LaTeX:
-
-I'm not quite sure the assumptions that go into this, but something about converting points, pixels, dpi, inches, etc. leads to needed to take the desired size of the figure in inches and multiplying by 96 to get it sized correctly in LaTeX
-
-This is a set of convenience functions that allows you to set figure sizes for LaTeX manually or with several defaults I have chosen.
-=#
-
 function latexsize(x, y)
     return (x * 96, y * 96)
 end
